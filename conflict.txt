@@ -1,2 +1,6 @@
 Just a random text for testing conflicts.
+This is gonna be the conflict line.
 And the this is the third line.
+
+
+
